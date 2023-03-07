@@ -1,4 +1,5 @@
 # Proyecto inicial - Reforzamiento de JavaScript
+## Fork realizado desde el proyecto original
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
